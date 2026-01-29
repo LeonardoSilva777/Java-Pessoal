@@ -18,6 +18,9 @@ public class Ex3 {
 
             double media = (n1 * 2.0 + n2 * 3.0 + n3 * 5.0) / 10.0;
             System.out.printf("%.2f%n", media);
+            int teste = 1;
+
+            System.out.println(teste);
         }
 
 

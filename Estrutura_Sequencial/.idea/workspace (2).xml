@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2a2d680-788a-417e-95dd-0217e32c18e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeonardoSilva777&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeonardoSilva777/Java-Pessoal.git&quot;,
+    &quot;accountId&quot;: &quot;1162735e-ec75-453f-908f-001c69b9bee9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3837o6prEG26uhpHu39Pnchss1o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Aulas_1001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aulas_1901.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aulas_2801.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Aulas_Estrutura_Sequencial" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2a2d680-788a-417e-95dd-0217e32c18e8" name="Changes" comment="" />
+      <created>1768016573845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768016573845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
