@@ -1,4 +1,4 @@
-package Aulas_Estrutura_Sequencial.Exercicios;
+package Aulas_java_Pessoal.Exercicios;
 
 import java.util.Locale;
 import java.util.Scanner;

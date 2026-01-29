@@ -1,6 +1,4 @@
-package Aulas_Estrutura_Sequencial;
-
-import org.w3c.dom.ls.LSOutput;
+package Aulas_java_Pessoal;
 
 public class Aulas_1901 {
     public static void main(String[] args) {

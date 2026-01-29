@@ -1,4 +1,4 @@
-package Aulas_Estrutura_Sequencial;
+package Aulas_java_Pessoal;
 
 import java.util.Locale;
 import java.util.Scanner;

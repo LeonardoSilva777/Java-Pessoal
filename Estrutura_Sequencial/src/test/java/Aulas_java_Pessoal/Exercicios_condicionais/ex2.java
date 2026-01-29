@@ -1,6 +1,4 @@
-package Aulas_Estrutura_Sequencial.Exercicios_condicionais;
-
-import com.sun.security.jgss.GSSUtil;
+package Aulas_java_Pessoal.Exercicios_condicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
